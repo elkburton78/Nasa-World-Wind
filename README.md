@@ -199,3 +199,6 @@ This repository serves as the official landing page for NASA World Wind. The sof
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of NASA World Wind today!**
+
+---
+**Last updated:** 2026-11-07 04:09:13 UTC
